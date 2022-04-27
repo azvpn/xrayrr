@@ -2,7 +2,7 @@
 
 ## Cài đặt 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/quoctai0209/xrayr/main/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/Quoctai0209/xrayr/master/install.sh)
 ```
 ## Cấu hình xrayr
 Sử dụng `nano` hoặc `vi` để vào thư mục cấu hình
